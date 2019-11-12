@@ -1,0 +1,45 @@
+Fit data to 3 degree polynomial
+maxerr=8.44881, avgerr=1.31625, rmserr=2.31943 
+
+Fit data to 4 degree polynomial
+maxerr=7.13397, avgerr=1.20978, rmserr=1.95156 
+
+Fit data to 5 degree polynomial
+maxerr=5.91413, avgerr=1.1778, rmserr=1.75889 
+
+Fit data to 6 degree polynomial
+maxerr=4.63388, avgerr=0.824208, rmserr=1.39449 
+
+Fit data to 7 degree polynomial
+maxerr=4.46974, avgerr=0.789374, rmserr=1.34296 
+
+Fit data to 8 degree polynomial
+maxerr=4.52544, avgerr=0.733784, rmserr=1.33847 
+
+Fit data to 9 degree polynomial
+maxerr=3.94936, avgerr=0.78946, rmserr=1.26297 
+
+Fit data to 10 degree polynomial
+maxerr=2.99466, avgerr=0.759823, rmserr=1.10391 
+
+Fit data to 11 degree polynomial
+maxerr=2.03026, avgerr=0.628793, rmserr=0.792465 
+
+Fit data to 12 degree polynomial
+maxerr=2.71121, avgerr=0.654695, rmserr=0.927428 
+
+Fit data to 13 degree polynomial
+maxerr=2.07543, avgerr=0.424775, rmserr=0.677464 
+
+Fit data to 14 degree polynomial
+maxerr=1.77966, avgerr=0.55497, rmserr=0.717206 
+
+Fit data to 15 degree polynomial
+maxerr=2.22342, avgerr=0.559109, rmserr=0.768291 
+
+Fit data to 16 degree polynomial
+maxerr=1.16512, avgerr=0.363344, rmserr=0.478324 
+
+Fit data to 17 degree polynomial
+maxerr=1.90803, avgerr=0.371328, rmserr=0.627753 
+
